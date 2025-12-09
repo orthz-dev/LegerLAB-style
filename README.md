@@ -1,0 +1,2 @@
+# LegerLAB-style
+originale
